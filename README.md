@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitish Kumar
 - 👀 I’m interested in learning how to code, and computing in general.
-- 🌱 I’m fluent in Python.
+- 🌱 I’m fluent in Python, and I know basics of C++.
 - 📫 I ditched Windows in favor of Linux.
 - 💞️ I’m looking to collaborate on simple beginner friendly programs, preferebly in Python.
 - 📫 Contact me on phone number 9241346328 or nitikcn+githubcollab@gmail.com
